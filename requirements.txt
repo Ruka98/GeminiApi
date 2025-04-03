@@ -1,0 +1,9 @@
+googlemaps==4.10.0
+csv==1.0  # Note: csv is part of Python standard library, no need to install separately
+google-generativeai==0.7.2
+requests==2.32.3
+pillow==10.3.0
+shapely==2.0.4
+folium==0.17.0
+streamlit==1.36.0
+streamlit-folium==0.21.0
