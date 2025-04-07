@@ -18,7 +18,7 @@ from streamlit_folium import folium_static
 
 # API keys - Note: In production, use st.secrets or environment variables
 GOOGLE_MAPS_API_KEY = "AIzaSyCVEZmawt1ZHi1f0kdkoRiyN8t7FeUFOhQ"  # Replace with your actual Google Maps API key
-GEMINI_API_KEY = "AIzaSyBiLpUsrIGE5qGADTqBihAtP_hMT8X8c5g"
+GEMINI_API_KEY = "AIzaSyBTVwTskP9YIPIMPnEGBaIKC3XKhqyHeCU"
 
 # Initialize clients
 gmaps = googlemaps.Client(key=GOOGLE_MAPS_API_KEY)
